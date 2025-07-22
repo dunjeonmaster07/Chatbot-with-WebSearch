@@ -1,0 +1,4 @@
+.env
+.venv
+Chatbot_with_Web/
+.DS_Store
